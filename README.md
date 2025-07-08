@@ -63,14 +63,5 @@
 <footer style="text-align:center; padding:20px; background:#eee;">
   <p>Creado por Valencia la 10 | 2025</p>
 </footer>
-<section class="interactivo">
-  <h2>📝 Cuestionario Rápido</h2>
-  <p>Responde: ¿Cuál es la diferencia principal entre Internet y la Web?</p>
-  <input type="text" id="respuesta" placeholder="Escribe tu respuesta aqui" style="padding:10px; width:80%; max-width:400px;">
-  <br><br>
-  <button onclick="verificarRespuesta()">Verificar</button>
-  <p id="feedback" style="margin-top:15px; font-weight:bold;"></p>
-</section>
-
 </body>
 </html>
