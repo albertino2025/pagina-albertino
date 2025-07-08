@@ -72,20 +72,5 @@
   <p id="feedback" style="margin-top:15px; font-weight:bold;"></p>
 </section>
 
-<script>
-  function verificarRespuesta() {
-    const resp = document.getElementById('respuesta').value.toLowerCase();
-    const feedback = document.getElementById('feedback');
-    
-    if (resp.includes('internet') && resp.includes('web')) {
-      feedback.innerHTML = '✅ ¡Correcto! Internet es la infraestructura, y la Web es un sistema de informacion que funciona sobre ella.';
-      feedback.style.color = 'green';
-    } else {
-      feedback.innerHTML = '❌ Intenta de nuevo. Pista: la Web funciona sobre Internet.';
-      feedback.style.color = 'red';
-    }
-  }
-</script>
-
 </body>
 </html>
