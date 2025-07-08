@@ -4,65 +4,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>¿Qué es una Página Web? | Aprende Internet</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f4f4f9;
-      color: #333;
-    }
-    header {
-      background: #0077cc;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    section {
-      padding: 40px 20px;
-      max-width: 1000px;
-      margin: auto;
-    }
-    h2 {
-      color: #0077cc;
-    }
-    img, iframe {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 20px auto;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 20px;
-    }
-    table, th, td {
-      border: 1px solid #ccc;
-    }
-    th, td {
-      padding: 12px;
-      text-align: center;
-    }
-    .interactivo {
-      margin-top: 40px;
-      text-align: center;
-    }
-    button {
-      padding: 10px 20px;
-      background: #0077cc;
-      color: white;
-      border: none;
-      cursor: pointer;
-    }
-    button:hover {
-      background: #005fa3;
-    }
-  </style>
-</head>
-<body>
-
 <header>
   <h1>Explorando el Mundo Web</h1>
   <p>Comprende qué es una página web, la diferencia entre Internet y la Web, y cómo funciona el protocolo IP.</p>
